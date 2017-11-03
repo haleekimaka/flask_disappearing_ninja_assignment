@@ -1,0 +1,20 @@
+* {
+    padding:0px;
+    margin: 0px;
+}
+
+img {
+    height:400px;
+    width:300px
+
+}
+
+/* .red {
+    background-image: url("static/img/raphael.png");
+    background-size: contain;
+}
+
+.april {
+    background-image: url("static/img/notapril.jpg");
+    background-size: contain;
+} */
